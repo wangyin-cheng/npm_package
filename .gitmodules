@@ -1,3 +1,0 @@
-[submodule "biz"]
-	path = biz
-	url = git@github.com:wangyin-cheng/webpack.git
